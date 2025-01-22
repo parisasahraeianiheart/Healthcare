@@ -13,18 +13,7 @@ The project uses optimization techniques to allocate limited healthcare resource
 - Optimize treatment allocation to minimize overall progression rates.
 - Provide interpretable solutions using network optimization.
 
-## Repository Structure
-optimization-in-healthcare/
-├── data/
-│   └── comorbidity_sample_data.csv       # Sample dataset for comorbidity progression
-├── src/
-│   ├── network_optimization.py           # Main script for solving the optimization problem
-│   ├── data_preprocessing.py             # Script for cleaning and processing data
-│   └── utils.py                          # Helper functions (e.g., result visualization)
-├── notebooks/
-│   └── optimization_demo.ipynb           # Jupyter notebook for detailed explanation and demos
-├── requirements.txt                      # List of required libraries
-└── README.md                             # Project documentation
+ntation
 
 
 ## Installation
@@ -36,9 +25,9 @@ optimization-in-healthcare/
 
 
    python -m venv env
-source env/bin/activate  # For MacOS/Linux
-env\Scripts\activate     # For Windows
-pip install -r requirements.txt
+   source env/bin/activate  # For MacOS/Linux
+   env\Scripts\activate     # For Windows
+   pip install -r requirements.txt
 
 
 python src/network_optimization.py
