@@ -1,0 +1,7 @@
+PatientID,Age,Condition,Severity,ProgressionRate
+1,65,Diabetes,3,0.8
+2,58,Hypertension,2,0.6
+3,72,COPD,4,0.9
+4,55,Asthma,2,0.5
+5,68,Diabetes,3,0.7
+6,75,Heart Disease,4,1.0
